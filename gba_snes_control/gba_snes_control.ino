@@ -21,22 +21,22 @@ int DATA_LATCH    = A1;
 int DATA_SERIAL   = A2;
 
 /*
-	  OGBA     	-> 	 Arduino Nano
-  --------      		-------
-   (GND)              GND
-   (Select, TP2) 		  D2
-   (Start,  TP3)      D3
-   (Up,     TP6)      D4
-   (Down,   TP7)      D5
-   (Left,   TP5)      D6
-   (Right,  TP4)      D7
-   (B,      TP1)      D8
-   (A,      TP0)      D9
-   (Y,     "BB")      D12
-   (X,     "AA")      D13
-   (L,      TP9)      D10
-   (R,      TP8)      D11
-   (RESET)            A3
+    OGBA     	  -> 	    Arduino Nano
+  --------      	      -------
+   (GND)              		GND
+   (Select, TP2)      		D2
+   (Start,  TP3)      		D3
+   (Up,     TP6)      		D4
+   (Down,   TP7)      		D5
+   (Left,   TP5)      		D6
+   (Right,  TP4)      		D7
+   (B,      TP1)      		D8
+   (A,      TP0)      		D9
+   (Y,     "BB")      		D12
+   (X,     "AA")      		D13
+   (L,      TP9)      		D10
+   (R,      TP8)      		D11
+   (RESET)            		A3
 
    For "turbo" function wire on arduino board:
    A4 to D8 pin,
@@ -55,7 +55,7 @@ int DATA_SERIAL   = A2;
 #define PIN_X       13
 #define PIN_L       10
 #define PIN_R       11
-#define PIN_RESET 	17
+#define PIN_RESET   17
 
 int buttons_state[12];  // B,Y,Sel,Start,U,D,L,R,A,X,L,R
 int output_pins[12] = { PIN_B, PIN_Y, PIN_SELECT, PIN_START, PIN_UP, PIN_DOWN,
