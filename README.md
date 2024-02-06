@@ -1,7 +1,9 @@
 # GBA-HDMI-SNES-Control
 Попытка создать стационарную консоль с HDMI из классического GameBoy Advance.
 
-![image](https://github.com/radiance28/GBA-HDMI-SNES-Control/assets/19339857/8d883fc5-d4ce-47d4-a296-21aba410b3f2)
+![image](https://github.com/radiance28/GBA-HDMI-SNES-Control/assets/19339857/2b42bed8-a213-4c51-b942-cb26fab3f5c6)
+
+
 
 ![image](https://github.com/radiance28/GBA-HDMI-SNES-Control/assets/19339857/d9782963-c7ee-46ea-abba-69950966e498)
 
