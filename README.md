@@ -1,9 +1,7 @@
 # GBA-HDMI-SNES-Control
 Попытка создать стационарную консоль с HDMI из классического GameBoy Advance.
 
-
-![Screenshot_1](https://user-images.githubusercontent.com/19339857/164501168-c99fcb34-2718-44d1-8e3f-9d30625a3282.png)
-
+![image](https://github.com/radiance28/GBA-HDMI-SNES-Control/assets/19339857/8d883fc5-d4ce-47d4-a296-21aba410b3f2)
 ![Screenshot_3](https://user-images.githubusercontent.com/19339857/164501749-7b6b93e0-ad8e-4d24-8e3b-c007600c9c40.png)
 
 На AliExpress нужно найти модуль "GBA HDMI 2 wire mod":
