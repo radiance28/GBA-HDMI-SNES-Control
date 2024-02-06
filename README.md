@@ -3,7 +3,8 @@
 
 ![image](https://github.com/radiance28/GBA-HDMI-SNES-Control/assets/19339857/8d883fc5-d4ce-47d4-a296-21aba410b3f2)
 
-![image](https://github.com/radiance28/GBA-HDMI-SNES-Control/assets/19339857/04dac3e9-c56c-4678-b02b-ffe8c63ad652)
+![image](https://github.com/radiance28/GBA-HDMI-SNES-Control/assets/19339857/d9782963-c7ee-46ea-abba-69950966e498)
+
 
 
 На AliExpress нужно найти модуль "GBA HDMI 2 wire mod":
