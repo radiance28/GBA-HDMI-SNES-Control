@@ -19,3 +19,7 @@ https://aliexpress.ru/item/1005003635128515.html
 https://aliexpress.ru/item/1996291344.html
 
 ![AMS1117-3-3-5-DC-DC-AMS1117-5-0V](https://user-images.githubusercontent.com/19339857/166977307-fea7b0c8-312f-4d86-8143-aaa644d2e534.jpg)
+
+
+И, конечно же, плата Arduino Nano: https://aliexpress.ru/item/32859196868.html
+![image](https://github.com/radiance28/GBA-HDMI-SNES-Control/assets/19339857/b330baf0-5511-4e2f-b529-f17f6a99362d)
